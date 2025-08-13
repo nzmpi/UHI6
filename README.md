@@ -1,3 +1,5 @@
-# ComplimentHook
+# UHI6 Hooks
 
-This hook compliments the sender with a random compliment.
+## ComplimentHook
+
+This hook compliments the sender with a pseudorandom compliment every time they add liquidity.
